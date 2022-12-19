@@ -1,0 +1,8 @@
+Requirements - To create this project 
+
+The software requirements for this lab are the same as for previous labs:
+1. Python 3.8+
+2. A package for virtual environments such as virtualenv or the built-in venv
+3. The version control system git
+4. A GitHub account
+
